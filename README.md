@@ -88,7 +88,3 @@ Generates fake employees and departments using `Faker`.
 
 ---
 
-## 🧪 Coming Soon
-
-- JWT Auth
-- Chart.js visualizations
